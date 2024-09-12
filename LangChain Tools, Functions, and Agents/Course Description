@@ -1,0 +1,22 @@
+The landscape of LLMs and the libraries that support them has evolved rapidly in recent months. This course is designed to keep you ahead of these changes. 
+
+You’ll explore new advancements like ChatGPT’s function calling capability, and build a conversational agent using a new syntax called LangChain Expression Language (LCEL) for tasks like tagging, extraction, tool selection, and routing.
+
+Learn about the most recent advancements in LLM APIs.
+
+Use LangChain Expression Language (LCEL), a new syntax to compose and customize chains and agents faster
+
+Apply these new capabilities by building up a conversational agent.
+
+After taking this course, you’ll know how to: 
+
+Generate structured output, including function calls, using LLMs;
+Use LCEL, which simplifies the customization of chains and agents, to build applications;
+Apply function calling to tasks like tagging and data extraction;
+Understand tool selection and routing using LangChain tools and LLM function calling – and much more.
+Start applying these new capabilities to build and improve your applications today.
+
+https://www.deeplearning.ai/short-courses/functions-tools-agents-langchain/
+
+https://learn.deeplearning.ai/accomplishments/4a5e5e4c-78f5-4738-a979-c5af9ccb3c16?usp=sharing
+
