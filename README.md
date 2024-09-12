@@ -6,4 +6,4 @@ I have completed my Tensorflow and Mastering Gen AI w/ OpenAI certifications and
 I am currently working on my Improving Deep Neural Nets, Machine Learning in Production, and RAG courses and those will be added once I am completed them
 
 
-Outside of coursework and projects for the certifications, I have done a Teacher-Student Knowledge Distillation Image Classification architecture/model but am working on the distillation part, and am working on creating a SEO ai agent
+Outside of coursework and projects for the certifications, I have done a Teacher-Student Knowledge Distillation Image Classification architecture/model but am working on the distillation part, a genetic CNN, and am working on creating a SEO ai agent
